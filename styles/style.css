@@ -1,0 +1,12 @@
+.content{
+    margin: 80px 450px;
+    background-color: aquamarine;
+    padding: 20px 30px;
+    border-radius: 20px;
+}
+.form{
+   font-size: 20px;
+}
+input{
+    display: inline;margin-left: 50px;
+}
